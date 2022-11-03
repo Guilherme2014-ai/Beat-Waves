@@ -1,3 +1,5 @@
 const onDeploy = window.location.href.split("github").length > 1;
 
-export { onDeploy };
+const baseUrl = onDeploy ? "/New-project/" : "/src/";
+
+export { baseUrl };

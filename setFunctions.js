@@ -1,5 +1,5 @@
 import { NewRandomMusic } from "./factory/NewRandomMusic.js";
-import { onDeploy } from "./helpers/onDeploy.js";
+import { baseUrl } from "./helpers/onDeploy.js";
 import { playerAudio } from "./index.js";
 import { setNewMusic } from "./usecases/setNewMusic.js";
 
@@ -21,7 +21,7 @@ function setFuncMusicRedirectToManyHTMLElements(elements) {
         const musicSlug = elem.getAttribute('data-value');
 
         elem.addEventListener("click", () => {
-            window.location.href = `${onDeploy ? "/integrator-Project/pages/music/" : "/src/pages/music/"}music.html?music=${musicSlug}`;
+            window.location.href = `${baseUrl}pages/music/music.html?music=${musicSlug}`;
         });
     });
 }
@@ -52,7 +52,7 @@ searchInput.addEventListener("keypress", (e) => {
     const search = e.target.value;
 
     if(key === "Enter") {
-        window.location.href = `${onDeploy ? "/integrator-Project/pages/searchResults/" : "/src/pages/searchResults/"}searchResults.html?search=${search}`;
+        window.location.href = `${baseUrl}pages/searchResults/searchResults.html?search=${search}`;
     }
 })
 
