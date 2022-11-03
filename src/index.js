@@ -11,7 +11,7 @@ import { artists } from "./content/artists.js";
 function setArtistImage(imageUrl) {
     const artistArea = document.getElementById("threeMains__artist");
 
-    artistArea.innerHTML = `<a href="./pages/music.html"><div style="background-image: url(${imageUrl});"></div></a>`;
+    artistArea.innerHTML = `<a href="#"><div style="background-image: url(${imageUrl});"></div></a>`;
 }
 
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

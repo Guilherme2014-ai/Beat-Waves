@@ -1,6 +1,6 @@
 import { artists } from "../../content/artists.js";
 import { musics } from "../../content/musics.js";
-import { onDeploy } from "../../helpers/onDeploy.js";
+import { baseUrl } from "../../helpers/onDeploy.js";
 
 const urlSearchParams = new URLSearchParams(window.location.search);
 const params = Object.fromEntries(urlSearchParams.entries());
@@ -17,7 +17,7 @@ document.getElementById("link__play").href = artist.spotify_url;
 
 artistMusics.forEach((music, idx) => {
     if(idx < 3) document.getElementById("content_section__topMusics").innerHTML += `
-    <a href="${onDeploy ? "/integrator-Project/pages/music/" : "/src/pages/music/"}music.html?music=${music.slug}">
+    <a href="${baseUrl}pages/music/music.html?music=${music.slug}">
         <div>
             <img src="${music.picture_url}" alt="monster">
             <span>${music.name}</span>

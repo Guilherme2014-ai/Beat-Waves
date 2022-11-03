@@ -1,4 +1,4 @@
-const onDeploy = window.location.href.split("github").length > 1;
+import { baseUrl } from "../../helpers/onDeploy";
 
 const searchInput = document.getElementById("search");
 const allMusicsRedirecioners = document.getElementsByClassName("musicRedirecioner");
@@ -9,7 +9,7 @@ function setFuncMusicRedirectToManyHTMLElements(elements) {
         const musicSlug = elem.getAttribute('data-value');
 
         elem.addEventListener("click", () => {
-            window.location.href = `${onDeploy ? "/integrator-Project/pages/music/" : "/src/pages/music/"}music.html?music=${musicSlug}`;
+            window.location.href = `${baseUrl}pages/music/music.html?music=${musicSlug}`;
         });
     });
 }
@@ -19,6 +19,6 @@ searchInput.addEventListener("keypress", (e) => {
     const search = e.target.value;
 
     if(key === "Enter") {
-        window.location.href = `${onDeploy ? "/integrator-Project/pages/searchResults/" : "/src/pages/searchResults/"}searchResults.html?search=${search}`;
+        window.location.href = `${baseUrl}pages/searchResults/searchResults.html?search=${search}`;
     }
 })
