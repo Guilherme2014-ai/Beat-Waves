@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>PROJECT</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="./assets/img/logo.svg" alt="site_logo" width="90" class="logo">
+
+            <div>
+                <img src="./assets/img/search.svg" alt="search">
+                <input type="text" placeholder="Pesquisar" id="search">
+            </div>
+            <aside></aside>
+        </nav>
+    </header>
+
+    <main>
+        <section class="threeMains">
+            <aside class="threeMains__sideBar">
+                <div></div>
+                <div></div>
+                <div></div>
+            </aside>
+            <div class="threeMains__artist" id="threeMains__artist"></div>
+            <aside class="threeMains__mostListens" id="threeMains__mostListens"></aside>
+        </section>
+        <section class="allMusics">
+            <h1>Recomendadas</h1>
+
+            <div class="allMusics__musics__container" id="allMusics__musics__container"></div>
+        </section>
+    </main>
+
+    <div class="PlayerSpaceEffect"></div>
+
+    <div class="player disabled" id="player">
+        <nav id="navToBack__musicPlayer"></nav>
+        <img id="musicPlayerImage" src="https://media.moddb.com/images/downloads/1/212/211077/Nomusic.png" width="300" height="300">
+        <div>
+            <h2 class="player__h2Title" id="player__h2Title">No Music</h2>
+            <marquee class="player__marquee" id="player__marquee" behavior="smooth" direction="right">No Music</marquee>
+            <div class="player__controlsGroup">
+                <div class="previous" id="previousMusic"><img class="previous__image" src="./assets/img/skip.svg"></div>
+                <div class="play" id="play"><img class="play__img" id="play__img" src="./assets/img/play.svg"></div>
+                <div class="next" id="nextMusic"><img src="./assets/img/skip.svg"></div>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="module" src="./setFunctions.js"></script>
+<script type="module" src="./index.js"></script>
+</html>

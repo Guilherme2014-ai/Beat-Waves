@@ -1,0 +1,22 @@
+{
+  "name": "projeto-integrador",
+  "version": "1.0.0",
+  "description": "Integrator Project",
+  "main": "./src/index.html",
+  "scripts": {
+    "deploy": "gh-pages -b gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme2014-ai/integrator-Project.git"
+  },
+  "author": "Guilherme Ana Julia Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilherme2014-ai/integrator-Project/issues"
+  },
+  "homepage": "https://github.com/Guilherme2014-ai/integrator-Project#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
