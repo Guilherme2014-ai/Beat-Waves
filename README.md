@@ -77,3 +77,11 @@ Como citado acima, nosso sistema foi projetado de forma reutilizavel, assim econ
 ![Beat Waves](https://user-images.githubusercontent.com/77082955/199751707-948dc4e9-374d-4de3-8f4d-2bacba89f711.jpg)
 
 <br>
+
+Aproximadamente 1380 linhas de Código
+Tecnologias usadas:
+- JS
+- HTML
+- CSS
+
+Equipe Beat Waves.
