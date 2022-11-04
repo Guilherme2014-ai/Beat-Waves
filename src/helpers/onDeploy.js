@@ -1,5 +1,10 @@
-const onDeploy = window.location.href.split("github").length > 1;
+const fixedSubDomain = () => {
+    const subDomain = window.location.href.split("/")[3];
+    const exception = ["page", "index.html", ""];
 
-const baseUrl = onDeploy ? "/Beat-Waves/" : "/src/";
+    return exception.includes(subDomain) ? "/" : `/${subDomain}/`;
+};
+
+const baseUrl = fixedSubDomain();
 
 export { baseUrl };

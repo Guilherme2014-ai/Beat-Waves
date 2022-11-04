@@ -1,4 +1,4 @@
-import { baseUrl } from "../../helpers/onDeploy";
+import { baseUrl } from "../../helpers/onDeploy.js";
 
 const searchInput = document.getElementById("search");
 const allMusicsRedirecioners = document.getElementsByClassName("musicRedirecioner");
@@ -6,6 +6,7 @@ setFuncMusicRedirectToManyHTMLElements(allMusicsRedirecioners);
 
 function setFuncMusicRedirectToManyHTMLElements(elements) {
     Array.prototype.filter.call(elements, (elem) => {
+        console.log(elem);
         const musicSlug = elem.getAttribute('data-value');
 
         elem.addEventListener("click", () => {
