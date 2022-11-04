@@ -62,19 +62,19 @@ Os Sitema todo foi construído em uma estrutura reutilizavel e escalavel. As pas
 Como citado acima, nosso sistema foi projetado de forma reutilizavel, assim economizando centenas de linhas de código, pois a reutilização implica na geração automática de Páginas. Usando as páginas de música como exemplo, podemos ver que as as paginas são geradas por um algoritimo, no qual pega as informações de determinada música da nosso pequena lista de músicas e aa imprimem em um template HTML. O mesmo é feito para a Página dos Artistas.
 
 ### Página Inicial
-![Home](https://user-images.githubusercontent.com/77082955/199751104-c56be11e-ce28-4582-a9a8-daea6433202a.jpg)
-
+<img src="https://user-images.githubusercontent.com/77082955/199751104-c56be11e-ce28-4582-a9a8-daea6433202a.jpg" />
 <br>
 ### Página da Música
-![Info da Música](https://user-images.githubusercontent.com/77082955/199751109-70dc0eac-ea5a-4c46-a3fb-c4f86feb1f24.jpg)
+<img src="https://user-images.githubusercontent.com/77082955/199751109-70dc0eac-ea5a-4c46-a3fb-c4f86feb1f24.jpg" />
+
 <br>
 ### Info do Artista
-![Info do Artista](https://user-images.githubusercontent.com/77082955/199751113-0b5462a8-9273-4bdb-ba77-884d867ad931.jpg)
+<img src="https://user-images.githubusercontent.com/77082955/199751113-0b5462a8-9273-4bdb-ba77-884d867ad931.jpg" />
 
 <br><br>
 
 ## Workflow
-![Beat Waves](https://user-images.githubusercontent.com/77082955/199751707-948dc4e9-374d-4de3-8f4d-2bacba89f711.jpg)
+<img src="https://user-images.githubusercontent.com/77082955/199751707-948dc4e9-374d-4de3-8f4d-2bacba89f711.jpg" />
 
 <br>
 
