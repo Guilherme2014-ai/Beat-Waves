@@ -1,0 +1,4 @@
+- Footer
+- Banner Rotativo
+- Mudança de artista
+- Documentação
