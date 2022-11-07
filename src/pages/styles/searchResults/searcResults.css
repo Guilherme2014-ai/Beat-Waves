@@ -84,4 +84,10 @@ header nav > div input {
 }
 .threeMains__mostListens__music .musicRedirecioner > aside {
   display: none;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }/*# sourceMappingURL=searcResults.css.map */

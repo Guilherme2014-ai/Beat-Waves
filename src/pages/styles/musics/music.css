@@ -58,22 +58,19 @@ section main .owner__container > div img {
 section aside {
   flex: 1;
   display: flex;
-  margin-bottom: 50px;
-  height: 100vh;
+  height: 105vh;
   flex-direction: column;
   align-items: center;
-  padding: 0px 20px;
   background-color: #1D1D1D;
 }
 section aside h2 {
-  margin-top: 40px;
+  margin: 40px 0;
 }
 section aside > div {
   width: 100%;
   overflow-y: auto;
   display: flex;
   justify-content: center;
-  margin: 0 30px;
 }
 section aside > div p {
   width: 180px;

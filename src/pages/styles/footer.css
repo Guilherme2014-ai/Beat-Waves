@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    height: 160px;
+    background-color:#1D1D1D;
+    padding: 30px;
+}
+
+.logoimg {
+    width: 200px;
+}
+
+#containerspan {
+    display: flex;
+    justify-content: space-between;
+}
+
+span {
+    cursor: pointer;
+    color: #535353;
+}
