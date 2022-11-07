@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">\
     <link rel="stylesheet" href="./index.css">
-    <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/152/152756.png">
+    <link rel="stylesheet" href="./pages/styles/footer.css">
+    <link rel="icon" href="https://cdn.discordapp.com/attachments/857701858655076402/954781672786759750/unknown.png" />
+
     <title>Beat Waves</title>
 </head>
 <body>
@@ -40,22 +42,21 @@
         </section>
     </main>
 
-    <div class="PlayerSpaceEffect"></div>
+    <br><br><br>
 
-    <div class="player disabled" id="player">
-        <nav id="navToBack__musicPlayer"></nav>
-        <img id="musicPlayerImage" src="https://media.moddb.com/images/downloads/1/212/211077/Nomusic.png" width="300" height="300">
+    <footer>
         <div>
-            <h2 class="player__h2Title" id="player__h2Title">No Music</h2>
-            <marquee class="player__marquee" id="player__marquee" behavior="smooth" direction="right">No Music</marquee>
-            <div class="player__controlsGroup">
-                <div class="previous" id="previousMusic"><img class="previous__image" src="./assets/img/skip.svg"></div>
-                <div class="play" id="play"><img class="play__img" id="play__img" src="./assets/img/play.svg"></div>
-                <div class="next" id="nextMusic"><img src="./assets/img/skip.svg"></div>
-            </div>
+            <a href="../../index.html">
+                <img class="logoimg" src="../../../src/assets/img/extended_logo.png" alt="logo">
+            </a>
         </div>
-    </div>
+        <div id="containerspan">
+            <span id="span11">Converse Conosco</span>
+            <span id="span12">&copy; Copyright Beat Waves</span>
+        </div>
+    </footer>
 
+    <div id="player__container"></div>
 </body>
 <script type="module" src="./setFunctions.js"></script>
 <script type="module" src="./index.js"></script>

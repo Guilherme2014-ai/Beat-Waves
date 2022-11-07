@@ -21,3 +21,9 @@ span {
     cursor: pointer;
     color: #535353;
 }
+
+@media(max-width: 800px) {
+    footer img {
+        max-width: 140px;
+    }
+}
