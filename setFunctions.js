@@ -4,17 +4,10 @@ import { playerAudio } from "./index.js";
 import { setNewMusic } from "./usecases/setNewMusic.js";
 
 const allAudioChangers = document.getElementsByClassName("audioChanger");
-setFuncSetNewMusicToManyHTMLElements(allAudioChangers);
-
 const allMusicsRedirecioners = document.getElementsByClassName("musicRedirecioner");
-setFuncMusicRedirectToManyHTMLElements(allMusicsRedirecioners);
+
 
 const searchInput = document.getElementById("search");
-const NavToBack = document.getElementById("navToBack__musicPlayer");
-const player = document.getElementById("player");
-const nextMusic = document.getElementById("nextMusic");
-const previousMusic = document.getElementById("previousMusic");
-const play = document.getElementById("play");
 
 function setFuncMusicRedirectToManyHTMLElements(elements) {
     Array.prototype.filter.call(elements, (elem) => {
@@ -46,6 +39,8 @@ function setNewRandomMusic(e) {
 
     setNewMusic(e, randomMusic.slug, randomMusic.name, randomMusic.owner, randomMusic.picture_url);
 }
+setFuncMusicRedirectToManyHTMLElements(allMusicsRedirecioners);
+setFuncSetNewMusicToManyHTMLElements(allAudioChangers);
 
 searchInput.addEventListener("keypress", (e) => {
     const key = e.key;
@@ -56,8 +51,16 @@ searchInput.addEventListener("keypress", (e) => {
     }
 })
 
-previousMusic.addEventListener("click", (e) => setNewRandomMusic(e));
-play.addEventListener("click", (e) => playerAudio.play(e));
-nextMusic.addEventListener("click", (e) => setNewRandomMusic(e));
-player.addEventListener("click", (e) => playerAudio.setFullPlayer(e));
-NavToBack.addEventListener("click", (e) => playerAudio.setMiniPlayer(e));
+export function setPlayerFuncs() {
+    const player = document.getElementById("player");
+    const play = document.getElementById("play");
+    const previousMusic = document.getElementById("previousMusic");
+    const nextMusic = document.getElementById("nextMusic");
+    const NavToBack = document.getElementById("navToBack__musicPlayer");
+
+    previousMusic.addEventListener("click", (e) => setNewRandomMusic(e));
+    play.addEventListener("click", (e) => playerAudio.play(e));
+    nextMusic.addEventListener("click", (e) => setNewRandomMusic(e));
+    player.addEventListener("click", (e) => playerAudio.setFullPlayer(e));
+    NavToBack.addEventListener("click", (e) => playerAudio.setMiniPlayer(e));   
+}
