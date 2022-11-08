@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imprima&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+$backgroundColor: #232323;
+$primaryColor: #1A1E1F;
+$thirdColor: #404040;
+
+body {
+    background-color: $backgroundColor;
+}
+
+header {
+    img {
+        display: none;
+    }
+    
+    nav {
+        display: flex;
+        height: 60px;
+
+        margin: 20px;
+
+        justify-content: space-between;
+
+        > div {
+            flex: 1;
+            transition: all ease-in-out 0.5s;
+            display: flex;
+
+            margin-right: 0 90px;
+            margin-left: 20px;
+
+            @media (max-width: 700px) {
+                margin-right: 0!important;
+                margin-left: 0!important;
+            }
+
+            img {
+                position: absolute;
+                width: 18px;
+                margin-top: 20px;
+                margin-left: 20px;
+            }
+            input {
+                transition: all ease-in-out 0.5s;
+                outline: none;
+                border: none;
+    
+                display: flex;
+                flex: 1;
+                
+                align-items: center;
+    
+                background-color: $primaryColor;
+                border-radius: 15px;
+    
+                color: $thirdColor;
+    
+                padding: 0 50px;
+            }
+        }
+    }
+}
+
+.threeMains__mostListens__music {
+    display: flex;
+    width: 100%;
+    height: 140px;
+
+    color: rgb(207, 207, 207);
+
+    font-family: 'Roboto', sans-serif;
+
+    .musicRedirecioner {
+        transition: all ease-in-out .4s;
+        border-radius: 10px;
+        margin: 0 50px;
+
+        cursor: pointer;
+
+        &:hover {
+            transform: scale(1.01);
+        }
+
+        padding: 0 30px;
+
+        flex: 1;
+        display: flex;
+
+        height: 100%;
+
+        justify-content: space-between;
+
+        background-color: $primaryColor;
+
+        > div {
+            display: flex;
+
+            align-items: center;
+
+            gap: 80px;
+
+            img {
+                border-radius: 10px;
+                max-width: 100px;
+            }
+        }
+
+        > aside {
+            display: none;
+        }
+    }
+}
+
+footer {
+    position: fixed;
+
+    width: 100%;
+
+    bottom: 0;
+}

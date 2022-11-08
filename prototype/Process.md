@@ -1,0 +1,5 @@
+- Footer
+- Banner Rotativo - opcional
+- Mudança de artista - opcional
+- Documentação
+- Completar dados
