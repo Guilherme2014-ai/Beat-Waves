@@ -37,9 +37,12 @@ section main .image__container {
   display: flex;
   justify-content: flex-start;
 }
-section main .image__container img {
+section main .image__container > div {
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
-  max-width: 200px;
+  background-position: center;
+  background-size: cover;
 }
 section main .content__container {
   margin-top: 60px;
@@ -74,4 +77,5 @@ section aside > div {
 }
 section aside > div p {
   width: 180px;
+  margin: 0 20px;
 }/*# sourceMappingURL=music.css.map */
