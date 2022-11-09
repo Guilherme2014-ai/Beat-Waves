@@ -50,9 +50,13 @@ section {
             display: flex;
             justify-content: flex-start;
 
-            img {
+            > div {
+                width: 150px;
+                height: 150px;
                 border-radius: 50%;
-                max-width: 200px;
+
+                background-position: center;
+                background-size: cover;
             }
         }
 
@@ -100,6 +104,8 @@ section {
 
             p {
                 width: 180px;
+
+                margin: 0 20px;
             }
         }
     }
