@@ -13,4 +13,6 @@ document.getElementById("image__container").innerHTML = `<div style="background-
 document.getElementById("content__container-h1").innerHTML = `${music.name}`;
 document.getElementById("content__container-p").innerHTML = `${music.bio}`;
 document.getElementById("owner__container_subgroup").innerHTML = `<a href="${baseUrl}pages/artistPage/index.html?artist=${musicOwner.name}"><img src="${musicOwner.profile_picture}"></a>`;
-document.getElementById("lyrics").innerHTML = `${music.lyrics}`;
+
+document.getElementById("lyrics__english").innerHTML = `${music.lyrics}`;
+document.getElementById("lyrics__portuguese").innerHTML = `${music.lyrics_portuguese}`;

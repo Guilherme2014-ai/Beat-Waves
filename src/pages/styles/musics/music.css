@@ -14,7 +14,7 @@ html {
 
 section {
   display: flex;
-  height: 100%;
+  flex-direction: column;
   background-color: #232323;
   color: #CACACA;
 }
@@ -30,7 +30,6 @@ section h1, section h2 {
   font-family: "Roboto", sans-serif;
 }
 section main {
-  flex: 3;
   padding: 50px;
 }
 section main .image__container {
@@ -58,24 +57,41 @@ section main .owner__container > div img {
   margin-top: 10px;
   width: 100px;
 }
-section aside {
+section .container__lyrics {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  background-color: #1A1E1F;
+  padding: 20px;
+}
+section .container__lyrics > div {
   flex: 1;
   display: flex;
-  height: 105vh;
-  flex-direction: column;
-  align-items: center;
-  background-color: #1D1D1D;
-}
-section aside h2 {
-  margin: 40px 0;
-}
-section aside > div {
-  width: 100%;
-  overflow-y: auto;
-  display: flex;
   justify-content: center;
-}
-section aside > div p {
-  width: 180px;
+  width: 100%;
   margin: 0 20px;
+  margin-bottom: 50px;
+}
+@media (max-width: 800px) {
+  section .container__lyrics > div {
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+  }
+  section .container__lyrics > div p {
+    text-align: center !important;
+    margin: 0 !important;
+  }
+}
+section .container__lyrics > div p {
+  flex: 1;
+  max-width: 300px;
+  margin: 0 30px;
+}
+section .container__lyrics > div .lyrics__english {
+  text-align: right;
+}
+section .container__lyrics > div .lyrics__portuguese {
+  text-align: left;
 }/*# sourceMappingURL=music.css.map */

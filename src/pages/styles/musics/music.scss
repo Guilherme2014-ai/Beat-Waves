@@ -20,7 +20,7 @@ html {
 
 section {
     display: flex;
-    height: 100%;
+    flex-direction: column;
 
     background-color: $backgroundColor;
     color: #CACACA;
@@ -42,8 +42,7 @@ section {
     }
 
     main {
-        flex: 3;
-
+        
         padding: 50px;
 
         .image__container {
@@ -80,33 +79,54 @@ section {
             }
         }
     }
-    aside {
-        flex: 1;
+
+    .container__lyrics {
         display: flex;
-
-        height: 105vh;
-        
-        h2 {
-            margin: 40px 0;
-        }
-
-        flex-direction: column;
         align-items: center;
 
-        background-color: #1D1D1D;
+        flex-direction: column;
+        gap: 30px;
+
+        background-color: $primaryColor;
+
+        padding: 20px;
 
         > div {
-            width: 100%;
-            overflow-y: auto;
-
+            flex: 1;
             display: flex;
             justify-content: center;
 
-            p {
-                width: 180px;
+            width: 100%;
 
-                margin: 0 20px;
+            margin: 0 20px;
+
+            @media(max-width: 800px) {
+                flex-direction: column;
+                align-items: center;
+
+                gap: 50px;
+
+                p {
+                    text-align: center!important;
+                    margin: 0!important;
+                }
             }
+
+            p {
+                flex: 1;
+                max-width: 300px;
+
+                margin: 0 30px;
+            }
+            .lyrics__english {
+                text-align: right;
+            }
+            .lyrics__portuguese {
+                text-align: left;
+            }
+
+            margin-bottom: 50px;
         }
+
     }
 }

@@ -91,6 +91,241 @@ export const musics = [
         (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
         Well, that's nothin' (ooh-ooh-ooh-ooh)
         (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)`,
+        lyrics_portuguese: `Sou amiga de um monstro
+
+        que está debaixo da minha cama
+        
+        Me dou bem com as vozes dentro da minha cabeça
+        
+        Você está tentando me salvar
+        
+        Pare de prender a sua respiração
+        
+        E você acha que sou louca
+        
+        sim, você acha que sou louca
+        
+        
+        
+        Eminem:
+        
+        
+        
+        Eu queria a fama
+        
+        mas não a capa da Newsweek
+        
+        Oh, bem, acho que mendigos não podem escolher
+        
+        Queria receber atenção pela minha música
+        
+        Queria ser deixado em paz em público, dá licença
+        
+        Quero o meu bolo, quero comê-lo também
+        
+        E quero dos dois jeitos
+        
+        A fama me deixou como um balão
+        
+        porque o meu ego inflou
+        
+        Quando eu estourei, veja, foi confuso
+        
+        Porque tudo o que eu queria fazer é
+        
+        Ser o Bruce Lee das folhas soltas
+        
+        Uma tinta abusada, a usei como uma ferramenta
+        
+        Quando eu estorei (wooh!)
+        
+        Ganhei na loteria, oh wee
+        
+        Com o que eu desisti de ficar foi bom e ruim
+        
+        Foi como ganhar um grande encontro
+        
+        Irônico, porque acho que estou ficando tão grande
+        
+        Que eu preciso de um psiquiatra
+        
+        Estou começando a perder o sono
+        
+        Um carneirinho, dois carneirinhos
+        
+        Ficando lelé da cuca e bizarro como o Kool Keith
+        
+        Mas na verdade sou mais estranho do que você pensa
+        
+        Porque eu sou
+        
+        
+        
+        Rihanna:
+        
+        
+        
+        Sou amiga de um monstro que está debaixo da minha cama
+        
+        Me dou bem com as vozes dentro da minha cabeça
+        
+        Você está tentando me salvar
+        
+        Pare de prender a sua respiração
+        
+        E você acha que sou louca, sim, você acha que sou louca
+        
+        Bem, isso não é nada
+        
+        Bem, isso não é nada
+        
+        
+        
+        Eminem:
+        
+        
+        
+        Agora, não sou muito um poeta
+        
+        Mas sei que alguém me disse uma vez
+        
+        Para aproveitar o momento e não desperdiçá-lo
+        
+        Porque você nunca sabe que tudo pode acabar amanhã
+        
+        Por isso continuo invocando
+        
+        Às vezes me pergunto onde esses pensamentos saem
+        
+        (Sim, pondere, você quer isso?
+        
+        Não é á toa que você esta perdendo sua cabeça
+        
+        E a forma como vagueia)
+        
+        yo-lo-lo-lo-yee-whoo
+        
+        Acho que você está perambulando por ai
+        
+        E já se deparou com o Jeff Vanvonderen
+        
+        Por que eu preciso de um psicólogo
+        
+        Para intervir entre mim e esse monstro
+        
+        E me salvar de mim mesmo e de todo esse conflito
+        
+        Porque as coisas que eu mais amo estão me matando
+        
+        E eu não posso conquistá-las
+        
+        Meu transtorno obsessivo compulsivo está me dando uma pancada na cabeça
+        
+        Continua batendo, ninguém em casa, sou sonâmbulo
+        
+        Estou apenas transmitindo o que a voz
+        
+        Na minha cabeça está dizendo
+        
+        Não atire no mensageiro, sou apenas amigo do
+        
+        
+        
+        Rihanna
+        
+        
+        
+        Eu sou amiga do monstro que está debaixo da minha cama
+        
+        Me dou bem com as vozes na minha cabeça
+        
+        Você está tentando me salvar
+        
+        Pare de prender a respiração
+        
+        Você acha que eu sou louca, sim, você acha que sou louca
+        
+        Bem, isso não é nada
+        
+        Bem, isso não é nada
+        
+        
+        
+        Eminem
+        
+        
+        
+        Me chame de louco, mas eu tenho essa visão
+        
+        Que um dia vou andar entre vocês como um cidadão comum
+        
+        Mas até lá as batidas serão de matar e eu vou direto para os
+        
+        Mc's, o sangue se derrama e eu
+        
+        Volto aos dias que estou nas faixas de Dre
+        
+        Dou a cada criança que foi zoada
+        
+        Uma sensação de insentivo e coraem para responder
+        
+        Ás crianças que zoaram com elas
+        
+        Não estou aqui para salvar as crianças
+        
+        Mas se um garoto entre cem milhões
+        
+        Que está passando por uma situação difícil
+        
+        Se relaciona com isso,está ótimo
+        
+        E vingança Russel Wilson estava saindo
+        
+        Do projeto,transformou o nada em algo
+        
+        Ainda pode fazer isso
+        
+        Transformar palha em um ouro idiota
+        
+        Vou jogar Rumpelstiltskin em um palheiro
+        
+        Talvez eu precise de uma camisa de força,encare os fatos
+        
+        Sou louco, de verdade, mas estou bem com isso
+        
+        Não é nada, eu ainda sou amigo de um
+        
+        
+        
+        Rihanna
+        
+        
+        
+        Eu sou amiga do monstro que está debaixo da minha cama
+        
+        Me dou bem com as vozes na minha cabeça
+        
+        Você está tentando me salvar
+        
+        Pare de prender a respiração
+        
+        Você acha que eu sou louca, sim, você acha que eu sou louca
+        
+        
+        
+        Eu sou amiga do monstro que está debaixo da minha cama
+        
+        Me dou bem com as vozes na minha cabeça
+        
+        Você está tentando me salvar
+        
+        Pare de prender a respiração
+        
+        Você acha que eu sou louca, sim, você acha que eu sou louca
+        
+        Bem, isso não é nada
+        
+        Bem, isso não é nada`,
         slug: "monster"
     },
     {
@@ -263,6 +498,459 @@ export const musics = [
         To trip a broad, and make her fall on her face and
         Don't be a retard, be a king? Think not
         Why be a king when you can be a god?`,
+        lyrics_portuguese: `Olha, eu ia pegar leve com você
+
+        E não ia machucar os seus sentimentos
+        
+        Mas só vou agarrar essa chance
+        
+        Algo está errado, posso sentir
+        
+        Tenho uma sensação
+        
+        Como se algo estivesse prestes a acontecer
+        
+        Mas não sei o que é
+        
+        Se isso quer dizer, o que eu quero dizer
+        
+        Estamos com problemas, grandes problemas
+        
+        E se ele é um banana como você diz
+        
+        Não vou me arriscar
+        
+        Você era apenas o que o doutor pediu
+        
+        
+        
+        Estou começando a me sentir como um Deus do Rap
+        
+        Toda a minha galera da frente e de trás acena
+        
+        Agora quem acha que os braços delas
+        
+        São longos o suficiente para dar um tapa, um tapa?
+        
+        Dizem que faço rap como um robô
+        
+        Então, me chame de Rapbô
+        
+        
+        
+        Mas para mim fazer rap como um computador
+        
+        Deve estar no meu genes
+        
+        Tenho um laptop no meu bolso de trás
+        
+        Minha caneta dispara quando eu a pego
+        
+        Tenho um maço cheio de dinheiro dos benefícios do rap
+        
+        Fiz uma vida e uma assassinato disso
+        
+        Desde que o Bill Clinton ainda estava no escritório
+        
+        Com a Monica Lewinskym, sentindo-a no seu saco
+        
+        Sou um Mc honesto
+        
+        Mas sou rude e indecente como um diabo
+        
+        Sílabas, killaholic (mato todos com isso)
+        
+        Esse lubrificante, essas batidas de hip hop
+        
+        Você realmente não quer se meter numa partida de mijo
+        
+        Com esse rapper dos rappers
+        
+        Carregando um Mac na traseira do carro Ac
+        
+        Carregue um artista do rap, sim, muito papo furado
+        
+        E no momento exato
+        
+        Eu tento fazer com esses versos manobras arriscadas
+        
+        Enquanto estou praticando isso
+        
+        Ainda serei capaz de quebrar a droga de uma mesa
+        
+        Nas costas de um casal de viadinhos e partir ao meio
+        
+        Só percebi que foi irônico
+        
+        Eu ter sido contratado na Aftermath depois de tudo
+        
+        Como eu não poderia bombar?
+        
+        Tudo o que faço é jogar bombas
+        
+        Sinta o meu ataque de ira
+        
+        Os rappers estão passando por um período difícil
+        
+        Aqui está um absorvente Maxi Pad
+        
+        Na verdade, é desastrosamente ruim para os chatos
+        
+        Enquanto estou magistralmente construindo essa obra-prima
+        
+        
+        
+        Estou começando a me sentir como um Deus do Rap
+        
+        Toda a minha galera da frente e de trás acena
+        
+        Agora quem acha que os braços delas
+        
+        São longos o suficiente para dar um tapa, um tapa?
+        
+        Deixe-me mostrá-lo que se manter
+        
+        Nessa droga não é tão difícil, não é tão difícil
+        
+        
+        
+        Todos querem a chave
+        
+        E o segredo para fazer um rap imortal como o meu
+        
+        Bem, para ser sincero, o projeto simplesmente enfurece
+        
+        E exubera a juventude
+        
+        Todos adoram enraizar um aborrecimento
+        
+        Atinja a Terra como um asteroide
+        
+        Não fiz nada, a não ser atingir a lua desde que
+        
+        Os Mcs precisam ir à escola com essa música
+        
+        Porque uso isso como um veículo para fazer rap com rima
+        
+        Agora lidero uma nova escola cheia de alunos
+        
+        Eu? Sou um resultado de Rakim, Lakim Shabazz, 2pac N
+        
+        W. A, Cube, ei, Doc, Ren, Yella, Eazy
+        
+        Obrigado, eles têm o Slim
+        
+        Que foi inspirado o suficiente para um dia crescer
+        
+        Explodir e estar em uma posição
+        
+        Para encontrar Run Dmc e conduzi-lo
+        
+        Na droga do Hall da Fama do Rock n' Roll
+        
+        Mesmo que eu entre em uma igreja
+        
+        E exploda em uma bola de chamas
+        
+        O único Hall da Fama que eu seria introduzido seria o "Álcool da Fama"
+        
+        Na parede da vergonha!
+        
+        Vocês, bichas, acham que é tudo um jogo até
+        
+        Até eu derrubar um bando de viadinhos
+        
+        Numa prancha, me diga que porra você está pensando?
+        
+        Um gayzinho, com a aparência de um garoto
+        
+        Tão gay, mal consigo dizer
+        
+        Com um tom sério "aparência de um garoto"
+        
+        Seu testemunha um massacre
+        
+        Como se você estivesse na reunião de uma igreja
+        
+        Como se tivesse a aparência de um garoto
+        
+        Oy, vey, esse garoto é gay
+        
+        Isso é o que todos dizem "a aparência de um garoto"
+        
+        Você tem cara de quem recebe uma palmadinha atrás
+        
+        E um jeito de ir da sua gravadora todos os dias
+        
+        Com a aparência de um garoto
+        
+        Ei garoto de aparência, o que você diz, garoto de aparência
+        
+        Consigo um "é isso aí" do Dre que tem aparência de garoto
+        
+        Trabalhei por tudo o que eu tenho
+        
+        Nunca pedi nada a ninguém
+        
+        Sai da minha frente, garoto de aparências
+        
+        Basicamente, garoto, você nunca será capaz
+        
+        De manter o mesmo ritmo, garoto de aparência
+        
+        
+        
+        Estou começando a me sentir como um Deus do Rap
+        
+        Toda a minha galera da frente e de trás acena
+        
+        A maneira que estou na pista de corrida
+        
+        Me chamem de Nascar, Nascar
+        
+        Dale Earnhardt do estacionamento
+        
+        O Deus do lixo branco
+        
+        Ajoelhe-se diante do General Zod, esse planeta é o Krypton
+        
+        Não de Asgard, Asgard
+        
+        
+        
+        Então você vai ser o Thor e eu serei o Odin
+        
+        Você é roedor, eu sou o onipotente
+        
+        Perdoe-me, mas estou recarregando imediatamente
+        
+        Com essas bombas que estou somando
+        
+        E eu não deveria estar acordado
+        
+        Sou um zumbi, mas sou apenas uma cabeça falante
+        
+        Um zumbi flutuante
+        
+        Mas tenho a sua mãe com a garganta nela
+        
+        Estou fora de meus miojos
+        
+        Não temos nada em comum, poodle
+        
+        Sou um doberman, belisque o seu braço
+        
+        E preste uma homenagem, pupilo
+        
+        Sou eu, minha honestidade é brutal
+        
+        Mas é honestamente fútil se não utilizá-la para o que faço
+        
+        Para o bem, pelo menos de vez em quando
+        
+        Então quero ter certeza de que em algum lugar
+        
+        Nessa cozinha rabiscada, eu faço garranchos e rabiscos
+        
+        Bastantes rimas para talvez tentar
+        
+        E ajudar algumas pessoas em momentos difíceis
+        
+        Mas ainda tenho um pouco mais de piadas no caso
+        
+        Porque mesmo se você não for contratado
+        
+        Os rappers estão famintos olhando para mim
+        
+        Como se fosse a hora do almoço
+        
+        Sei que houve um tempo onde uma vez eu
+        
+        Era o rei do underground
+        
+        Mas ainda faço rap como o grupo do Pharoahe Monch
+        
+        Então junto as rimas, mas às vezes quando você combina
+        
+        Apela para a cor da minha pele
+        
+        Você se acha que é grande coisa
+        
+        E vêm aqui tentar censurá-lo
+        
+        Como o primeiro verso eu disse "Estou de Volta"
+        
+        Do "Marshall Mathers Lp"
+        
+        Onde tentei dizer peguei sete crianças da Columbine
+        
+        As coloquei em uma fila, acrescentei um Ak-47, um revólver
+        
+        Veja, se eu escapar com isso agora
+        
+        Isso não é tão grande quanto eu era
+        
+        Mas fui modificado para um imortal que veio de um portal
+        
+        Você está preso no passado de 2004
+        
+        E eu não sei pelo o quê você rima
+        
+        Você é um inútil como a Rapunzel sem as drogas da trança
+        
+        Você é tipo normal, a droga de um normal
+        
+        E acabei de comprar um novo Raygun do futuro
+        
+        Para chegar e atirar em você como
+        
+        O Fabolous fez Ray J se irritar
+        
+        Porque Fab disse que ele parecia um viadinho
+        
+        Na festa do Maywhether
+        
+        Cantando para um homem enquanto tocavam piano
+        
+        Cara, oh cara, isso foi um especial de 24 horas por dia
+        
+        Na Tv a cabo
+        
+        Então Ray J foi direto para a rádio no dia seguinte
+        
+        "Ei, Fab, vou te matar"
+        
+        As palavras chegaram até você na velocidade supersônica
+        
+        (Jj Fad)
+        
+        Uh, sama lamaa duma lamaa
+        
+        Você supõe que sou um humano
+        
+        O que eu preciso fazer para lidar com você
+        
+        Que sou um super-homem
+        
+        Inovador e sou feito de borracha
+        
+        Para que qualquer coisa que você diga
+        
+        Ricocheteando em mim
+        
+        Vai grudar em você
+        
+        Nunca estou afirmando
+        
+        Mais do que nunca estou demonstrando
+        
+        Como dar a uma platéia filha da mãe
+        
+        Uma sensação de levitação
+        
+        Que nunca desaparece
+        
+        Sei que os que não gostam de mim estão sempre esperando
+        
+        O dia que vão poder dizer em que eu caí
+        
+        Eles estariam comemorando
+        
+        Porque eu conheço uma forma de ser motivado
+        
+        Faço músicas de elevação, você faz música de elevador
+        
+        Ooh, ele é muito da modinha
+        
+        Bem, isso é o que eles dizem
+        
+        Quando ficam com inveja, eles se confundem
+        
+        Não é hip hop, é pop, porque encontrei um jeito de uni-lo
+        
+        Com rock, um rap chocante com Doc
+        
+        Ponha o "Lose Yoursellf" e faça-os perderem
+        
+        Não sei como fazer canções como estas
+        
+        Não sei quais palavras usar
+        
+        Deixe-me saber quando isso ocorre com você
+        
+        Enquanto faço rap com qualquer um desses versos
+        
+        Diversos para você
+        
+        É estilo, estou inadvertidamente te machucando
+        
+        Quantos versos tenho que matar para provar
+        
+        Que se você é meio bom nas canções
+        
+        Você pode sacrificar suas virgens também
+        
+        Repeti de ano na escola, um viciado em drogas
+        
+        Mas, veja o que os elogias trouxeram para mim
+        
+        Sou arrogante, mas ainda estou faminto
+        
+        Faço bullying comigo mesmo, porque eu faço
+        
+        O que eu coloco na cabeça
+        
+        E estou a um milhão de classificações acima de você
+        
+        Os doentes mentais que falam em línguas
+        
+        Mas ainda sou irônico, dane-se
+        
+        Estou bêbado para que o Satã assuma o comando
+        
+        Estou dormindo no assento da frente
+        
+        Detonando com o Heavy D e os The Boyz
+        
+        Ainda na canção "Chunky, But Funky"
+        
+        Posso sentir vigoroso e forte
+        
+        Os anjos lutam com os demônios
+        
+        Aqui está o que eles querem de mim
+        
+        Estão me pedindo para eliminar
+        
+        Algumas das mulheres que odeio
+        
+        Mas se você levar em consideração
+        
+        A amargura que eu tinha
+        
+        Talvez você possa ter um pouco de paciência
+        
+        Mais simpatia com a situação
+        
+        E entender a discriminação
+        
+        Mas dane-se, a vida te dá limões, faça uma limonada então
+        
+        Mas se eu não pudesse bater nas mulheres então
+        
+        Eu deveria preparar um bolo para elas?
+        
+        Não me confunda com o Satã
+        
+        É um erro fatal, se você achar que preciso estar no exterior
+        
+        E tirar férias numa viagem para o estrangeiro
+        
+        E fazê-la cair de cara e não ser um retardado
+        
+        Ser um rei? Acho que não
+        
+        Por que ser um rei quando você pode ser um Deus?`,
         bio: `Rap God" is a song by American rapper Eminem. The song premiered via YouTube on October 14, 2013, and was released in the United States on October 15, 2013, as the third single from Eminem's eighth studio album, The Marshall Mathers LP 2 (2013). It contains references to previous conflicts in Eminem's career, as well as to other rappers' conduct.
 
         The song entered the Guinness World Records as the hit single that contains the most words; it has 1,560 words.[1] The song was also nominated for a Grammy Award for Best Rap Performance, but lost to Kendrick Lamar's "i".[2]`,
@@ -376,6 +1064,255 @@ export const musics = [
         'Cause we need a little, controversy
         'Cause it feels so empty without me
         Kids!`,
+        lyrics_portuguese: `"Obie Trice, nome real, sem truques..."
+
+
+
+        [Eminem]
+        
+        Duas meninas de um parque habitacional vão dar uma volta,
+        
+        Dar uma volta, dar uma volta.
+        
+        Duas meninas de um parque habitacional
+        
+        vão dar uma volta, dar uma volta, dar uma volta.
+        
+        [Voz Feminina]
+        
+        "Ooooohhhhh!"
+        
+        [Eminem]
+        
+        Advinhe quem voltou, voltou denovo
+        
+        Shady voltou, conte a um amigo
+        
+        Adivinhe quem voltou, advinhe quem voltou
+        
+        advinhe quem voltou, advinhe quem voltou
+        
+        advinhe quem voltou, advinhe quem voltou
+        
+        advinhe quem voltou...
+        
+        
+        
+        (Nah nah nah nah nah na na nah) 2x
+        
+        
+        
+        Eu criei um monstro, porque ninguém mais quer
+        
+        Ver o Marshall, eles querem o Shady.
+        
+        Sou fígado picado
+        
+        Bem, se querem o Shady, isso é o que vou te dar
+        
+        Um pouco de maconha misturado
+        
+        com alguma bebida alcoólica forte
+        
+        Vodka para reanimar meu coração mais rápido
+        
+        Que um choque quando tomo um choque no hospital
+        
+        Pelo Dr. quando eu não estiver cooperando.
+        
+        Quando eu estiver balançando a mesa
+        
+        enquanto ele está operando
+        
+        Você esperou este tempo, agora pare de debater
+        
+        Porque estou de volta, estou um trapo e ovulando
+        
+        Sei que conseguiu um trabalho Sra. Cheney
+        
+        Mas o problema de coração do seu marido está complicando
+        
+        Então o FCC não me deixa ser
+        
+        Ou me deixa ser então me deixe ver
+        
+        Eles tentaram me calar na MTV
+        
+        Mas isso parece tão vazio sem mim
+        
+        Então, venha mergulhar seu traseiro em sua boca,
+        
+        que se foda,
+        
+        Venha com seus lábios um pouco nas suas tetas
+        
+        E prepare-se pois essa merda é para ser pesada
+        
+        Acabei de estabelecer todos meus processos,
+        
+        "FODA - SE DEBBIE!"
+        
+        Agora isso parece como um trabalho para mim
+        
+        Então todos, sigam-me
+        
+        Porque precisamos de um pouco de controvérsia,
+        
+        Pois isso parece tão vazio sem mim.
+        
+        
+        
+        Eu disse, isso parece um trabalho para mim
+        
+        Então todos, sigam-me
+        
+        Porque precisamos de um pouco de controvérsia,
+        
+        Pois isso parece tão vazio sem mim.
+        
+        
+        
+        Malvadinhos, crianças sentindo-se rebeldes
+        
+        Envergonhadas, pois seus pais ainda escutam Elvis
+        
+        Começam a se sentir presos indefesos,
+        
+        Até que alguém venha em uma missão e grite "puta"
+        
+        Uns visionários, a visão do medo,
+        
+        podia começar uma revolução
+        
+        Poluindo as ondas sonoras em rebeldes
+        
+        Então deixe-me preparar a orgia, o fato é que eu
+        
+        consegui todo mundo puxando meu saco
+        
+        Isso é um desastre, uma catástrofe
+        
+        para você ver o tanto você enche meu saco?!
+        
+        Bem eu voltei (som do batman)
+        
+        conserte sua antena torta,sintonize
+        
+        que eu vou entrar dentro sua pele como uma farpa
+        
+        O centro da atenção estará de volta no inverno
+        
+        Eu estou interessando, a melhor coisa desde lutar
+        
+        Infestando os berços e orelhas de crianças
+        
+        (Locutor)
+        
+        Testando... "Sua atenção por favor"
+        
+        sinta a tensão tão logo alguém me menciona
+        
+        Aqui estão os meus 10 centavos,
+        
+        os 2 centavos são de graça
+        
+        Que incoveniência, quem enviou, você mandou por mim?
+        
+        
+        
+        Eu disse, isso parece um trabalho para mim
+        
+        Então todos, sigam-me
+        
+        Porque precisamos de um pouco de controvérsia,
+        
+        Pois isso parece tão vazio sem mim.
+        
+        
+        
+        Eu disse, isso parece um trabalho para mim
+        
+        Então todos, sigam-me
+        
+        Porque precisamos de um pouco de controvérsia,
+        
+        Pois isso parece tão vazio sem mim.
+        
+        
+        
+        Comigo é elas por elas,
+        
+        eu insulto qualquer um que fale essa ou aquela merda
+        
+        ... Chris Kirkpatrick você pode apanhar
+        
+        Pior que esses pequenos bastardos do Limp Bizkit, e Moby?
+        
+        Você pode ser pisado por Obie,
+        
+        seu careca de 36 anos de idade,
+        
+        Você não me conhece, você é muito velho, deixa para lá,
+        
+        já terminou, ninguém escuta techno
+        
+        Agora vamos nessa, dê-me um sinal
+        
+        que eu estarei com uma lista lotada de novos insultos
+        
+        Eu já fui uma droga, cheio de suspense
+        
+        com um lápis desde que Prince tornou-se um símbolo
+        
+        Mas às vezes, cara, parece que todo mundo
+        
+        só quer falar a meu respeito
+        
+        Isso significa que eu sou repugnante,
+        
+        mas sou eu mesmo eu sou apenas obsceno
+        
+        Entretanto não sou o primeiro rei de controvérsia
+        
+        Eu sou a pior coisa desde Elvis Presley,
+        
+        para fazer um Hip Hop tão egoísta
+        
+        E uso isso para ficar mais rico (Hey)
+        
+        Existe um conceito que funciona
+        
+        20 milhões de outros rappers brancos surgem
+        
+        Mas não importa quantos peixes estejam no mar
+        
+        que sempre estará sem mim
+        
+        
+        
+        Eu disse, isso parece um trabalho para mim
+        
+        Então todos, sigam-me
+        
+        Porque precisamos de um pouco de controvérsia,
+        
+        Pois isso parece tão vazio sem mim.
+        
+        
+        
+        Eu disse, isso parece um trabalho para mim
+        
+        Então todos, sigam-me
+        
+        Porque precisamos de um pouco de controvérsia,
+        
+        Pois isso parece tão vazio sem mim.
+        
+        
+        
+        Hum dei la la la, la la la la la, la la la la la, la la la la
+        
+        Hum dei la la la, la la la la la, la la la la la, la la la la`,
         bio: `Without Me" is a song by American rapper Eminem from his fourth studio album The Eminem Show (2002). "Without Me" was released on May 15, 2002, as the lead single from the album, and re-released on his greatest hits compilation album Curtain Call: The Hits (2005). "Without Me" is one of Eminem's most successful singles, reaching number two in the U.S. Billboard Hot 100, and number one in fifteen countries.`,
         slug: "without_me"
     },
@@ -418,6 +1355,159 @@ export const musics = [
         If you get out of bed and find me standing all alone
         Open-eyed, burn the page, my little dark age
         All alone, open-eyed, burn the page, my little dark age`,
+        lyrics_portuguese: `Respirando no escuro
+
+        Deitadas de lado
+        
+        As ruínas do dia
+        
+        Pintadas com uma cicatriz
+        
+        E quanto mais eu estico
+        
+        Mas ela quer tentar
+        
+        O sentimento começa a apodrecer
+        
+        Uma piscada por vez
+        
+        
+        
+        Perdoando quem você é
+        
+        Pelo que você defende ganhar
+        
+        Só saiba que se você se esconder
+        
+        Não vai sumir
+        
+        Quando você sair da cama
+        
+        Não acabe ficando preso
+        
+        Aterrorizado com cada pedra
+        
+        No palco
+        
+        Minha pequena idade das trevas
+        
+        
+        
+        Escolhendo uma carta
+        
+        Sabendo o que está por perto
+        
+        Os riscos cravados no rosto
+        
+        Dizem que é difícil de encontrar
+        
+        E o motor parou de novo
+        
+        Todos os limites do disfarce
+        
+        O humor não é o mesmo
+        
+        Vindo da negação
+        
+        
+        
+        Eu sofro em modo estéreo
+        
+        O estéreo soa estranho
+        
+        Sei que se você se esconder
+        
+        Não vai sumir
+        
+        Se você sair da cama
+        
+        E me vir parado sozinho
+        
+        De olhos abertos
+        
+        Queime essa página
+        
+        Minha pequena idade das trevas
+        
+        
+        
+        Eu sofro em modo estéreo
+        
+        O estéreo soa estranho
+        
+        Sei que se esconder
+        
+        Não vai sumir
+        
+        Se eu sair da cama
+        
+        Você me verá parado sozinho
+        
+        Aterrorizado
+        
+        No palco
+        
+        Minha pequena idade das trevas
+        
+        
+        
+        Tonto com o deleite
+        
+        Vendo o que está por vir
+        
+        A imagem dos mortos
+        
+        Dos becos sem saída na minha mente
+        
+        
+        
+        Polícias juram por Deus
+        
+        Tem amor escorrendo das armas
+        
+        Sei que eu e meus amigos
+        
+        Provavelmente nos viraríamos e correríamos
+        
+        Se você sair da cama
+        
+        Venha nos encontrar indo para a ponte
+        
+        Traga uma pedra
+        
+        Toda a raiva
+        
+        Minha pequena idade das trevas
+        
+        
+        
+        Eu sofro em modo estéreo
+        
+        O estéreo soa estranho
+        
+        Sei que se você se esconder
+        
+        Não vai sumir
+        
+        Se você sair da cama
+        
+        E me vir parado sozinho
+        
+        De olhos abertos
+        
+        Queime essa página
+        
+        Minha pequena idade das trevas
+        
+        
+        
+        Totalmente sozinho
+        
+        De olhos abertos
+        
+        Queime essa página
+        
+        Minha pequena idade das trevas`,
         slug: "little_dark_age"
     },
     {
@@ -547,6 +1637,301 @@ export const musics = [
         They ain't gonna know what hit 'em
         (W-W-When they get bit with the-)
         Venom`,
+        lyrics_portuguese: `Eu tenho uma música cheia de parada para determinação
+
+        Quando o mundo te trata de forma injusta
+        
+        Te irrita até que você
+        
+        grita, "Se manda, vai te ferrar"
+        
+        Quando fala com você como se você não fizesse parte disso
+        
+        Ou te diz que você está no lugar errado
+        
+        Quando algo está em sua mitocôndria
+        
+        Porque se apegou a você, como
+        
+        
+        
+        Toc, toc, deixe o demônio entrar
+        
+        Maléfico como sempre fui
+        
+        A cabeça girando e esse remédio
+        
+        Gritando, "Deixe-nos entrar"
+        
+        Lamba como um baseado, Edgar Allen Poe
+        
+        Acamado, deveria estar morto há um bom tempo
+        
+        Tylenol líquido, gelatina
+        
+        Acho que meu esqueleto está derretendo
+        
+        Perverso, eu fico chapado quando acho
+        
+        Que senti o cheiro do estrume do elefante
+        
+        Poutz, quero dizer, Kahlúa, dane-se, vá pro inferno com isso
+        
+        Passei pelo inferno com combustíveis e sangrei
+        
+        A mim-mim-mim mesmo novamente, Volkswagen, parafuso
+        
+        A lataria combina com a minha pele pálida, medalha de ouro
+        
+        Foi da maionese sem caloria para a magreza
+        
+        McFish, Scribble Jam, Rap Olympics, Freaknik de 1997
+        
+        Como posso ficar pra baixo? Eu e o Bizarre na Flórida
+        
+        O Proof dormia no chão do motel naquela época
+        
+        Dr. Dre disse, "Isso mesmo"
+        
+        Consegui um selo (de aprovação) como de um cartão postal
+        
+        Juro ao Mel-Man
+        
+        E sei que eles vão odiar, mas eu não me importo
+        
+        Mal podia esperar para pegar eles
+        
+        Com uma batida e com um baixo, bem no meio da fuça
+        
+        É melhor a porra deste mundo se preparar para ser laçado
+        
+        Porque eles vão provar do meu
+        
+        
+        
+        Veneno, impulso de adrenalina (veneno)
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)
+        
+        Veneno, (eu tenho isso) impulso de adrenalina
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)
+        
+        Veneno, (eu tenho isso) impulso de adrenalina
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)
+        
+        
+        
+        Eu disse "toc, toc, deixe o demônio entrar"
+        
+        Cápsulas de b-b-balas na canetinha
+        
+        Engatilhado, faça merda e tome uma quentinha
+        
+        É evidente que não acabei
+        
+        V-venenoso, os pensamentos giram
+        
+        Como uma teia, e você acabou de cair nela
+        
+        Preso contra sua vontade como uma calota ou pára-lamas
+        
+        Vença o ataque do estrangulador
+        
+        Assim, isso não vai parecer como um tapinha de amor
+        
+        Tome analgésicos, ferre com o rastro
+        
+        Do tipo, por que o nome dela está na roda? Danica Patrick
+        
+        Jogue o carro de marcha ré na Indy, uma batida louca
+        
+        Em você, a parte de trás só está com o aço destroçado
+        
+        Meu Mustang e o Jeep Wrangler
+        
+        Com a frente esmagada
+        
+        tanto quanto meu pára-choque, assassino
+        
+        O Slim é uma combinação de um atual
+        
+        Kamikaze e de um Gandhi (Gandhi)
+        
+        Tradução, eu provavelmente irei matar nós dois
+        
+        Quando eu voltar para a Índia
+        
+        Você não será capaz de dizer
+        
+        Que porra está acontecendo com você
+        
+        Quando for picado pelo
+        
+        
+        
+        Veneno
+        
+        (Eu tenho isso) Impulso de adrenalina (veneno)
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)
+        
+        Veneno
+        
+        (Eu tenho isso) impulso de adrenalina
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)
+        
+        
+        
+        Eu disse, "toc, toc, deixe o demônio entrar, Et"
+        
+        "Elliot, telefone, minha casa"
+        
+        Ninguém sabe quando o estrangulamento
+        
+        Desse jogo irá acabar, estou louco
+        
+        Me tornei um simbiota, então
+        
+        Minhas presas estão na sua garganta
+        
+        Você está entrando no meu
+        
+        Veneno
+        
+        Coloque a caneta esferográfica neles
+        
+        Uma arma, munição, olhar demoníaco, chumbo grosso
+        
+        Aldrava de pneus, um garrote, amarre alguns nós
+        
+        Atire e pegue fogo, Fanático
+        
+        É punk rock, vadia, vai desabar como Yung Joc
+        
+        Porque o doutor me colocou em um tipo de filtro solar
+        
+        Mas eu não erro, você só tem uma chance
+        
+        Comi merda até não conseguir sentir isso
+        
+        Seguido de liquor
+        
+        E "Paint Thinner", e bebi até desmaiar
+        
+        E acordo com uma dor de cabeça
+        
+        E tomo qualquer coisa de forma retangular
+        
+        E espero pra encarar os demônios dos quais estou conectado
+        
+        Porque eles estão me perseguindo, mas eu sou parte de você
+        
+        Então, escapar de mim, é impossível
+        
+        Eu me prendo a você como um... parasita
+        
+        E provavelmente arruinei a vida dos seus pais
+        
+        E sua infância também
+        
+        Porque se eu sou a música da qual vocês cresceram ouvindo
+        
+        Eu sou responsável por vocês, retardados
+        
+        Sou o super vilão
+        
+        Para quem seu papai e mamãe estavam perdendo o juízo
+        
+        Você admira isso? Eddie Brock é você
+        
+        E eu sou o terno, então me chame de
+        
+        
+        
+        Veneno
+        
+        (Eu tenho isso) Impulso de adrenalina (veneno)
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)
+        
+        Veneno
+        
+        (Eu tenho isso) impulso de adrenalina
+        
+        E eu não sei quando eu vou
+        
+        Desacelerar e eu estou
+        
+        Pronto para descarregar a qualquer momento, eu estou
+        
+        Pensando que é hora de ir pegá-los
+        
+        Eles nem vão saber o que lhes atingiu
+        
+        (Q-q-quando eles forem picados pelo...)`,
         bio: `Venom (Music from the Motion Picture)", more commonly known as simply "Venom", is a song by American rapper Eminem, written for the soundtrack of the 2018 film of the same name and featured in his album Kamikaze. It was released as a digital single on September 21, 2018. Following the album's release, the track entered the charts in several countries, hitting the top 50 in the United States, Canada and Australia. A remix to the song was released on October 5, 2021, two days after the release of Venom: Let There Be Carnage, the film's sequel.[2] Eminem was also featured in a song by Skylar Grey on that film's soundtrack as well.`,
         slug: "venom"
     },
@@ -590,6 +1975,145 @@ export const musics = [
         Work all day, and then I wake up
         Work all day, and then I wake up
         Work all day`,
+        lyrics_portuguese: `Um dia, o mundo parou
+
+        Sem aviso
+        
+        A primavera não sabe como esperar
+        
+        Ela chegou sem sentido
+        
+        Uma rua com pegadas apagadas
+        
+        Estou caindo aqui
+        
+        O tempo passa sozinho
+        
+        Desculpe. Sem dizer nada
+        
+        
+        
+        Parece que vai chover de novo hoje
+        
+        Você está encharcado
+        
+        Ainda não para
+        
+        Corra mais rápido do que aquela nuvem negra
+        
+        Eu pensei que iria funcionar
+        
+        Eu acho que sou apenas um ser humano
+        
+        Isso dói pra caramba
+        
+        O frio que o mundo me deu
+        
+        Graças a você, estou rebobinando a poeira
+        
+        Dança excêntrica de Ch'ung-ha com uma queda
+        
+        Vamos descansar quando o inverno chegar
+        
+        Uma respiração mais quente
+        
+        
+        
+        Não consigo enxergar o fim
+        
+        Há alguma saída?
+        
+        Meus pés não se mexem, oh
+        
+        Feche seus olhos por um momento
+        
+        Aqui, segure minha mão
+        
+        Vamos fugir para o futuro
+        
+        
+        
+        Como um eco na floresta
+        
+        O dia voltará
+        
+        Como se nada tivesse acontecido
+        
+        Sim, a vida continua
+        
+        Como uma flecha no céu azul
+        
+        Estamos voando para outro dia
+        
+        No meu travesseiro, na minha mesa
+        
+        Sim, a vida continua
+        
+        Assim de novo
+        
+        
+        
+        Vou emprestar essa musica pra você
+        
+        As pessoas dizem que o mundo mudou
+        
+        Felizmente, nós realmente
+        
+        Ainda não mudamos
+        
+        
+        
+        "Oi" é a palavra "oi" do início e do fim
+        
+        Vamos continuar hoje e amanhã juntos novamente
+        
+        Fique firme, mas não se esconda no escuro
+        
+        A luz aparecerá novamente
+        
+        
+        
+        Não consigo enxergar o fim
+        
+        Há alguma saída?
+        
+        Meus pés não se mexem, oh
+        
+        Feche seus olhos por um momento
+        
+        Aqui, segure minha mão
+        
+        Vamos fugir para o futuro
+        
+        
+        
+        Como um eco na floresta
+        
+        O dia voltará
+        
+        Como se nada tivesse acontecido
+        
+        Sim, a vida continua
+        
+        Como uma flecha no céu azul
+        
+        Estamos voando para outro dia
+        
+        No meu travesseiro, na minha mesa
+        
+        Sim, a vida continua
+        
+        Assim de novo
+        
+        
+        
+        Eu me lembro
+        
+        Eu me lembro
+        
+        Eu me lembro
+        
+        Eu me lembro`,
         bio: `A music video for "Life Goes On" was directed by Tree and uploaded to his official YouTube channel on May 28, 2021.[3][4] Additionally, Tree would release a lyric video to his official YouTube channel on September 10, 2021, just four months later.[5]
 
         A remix of the song, along with a music video, which featured American rappers Trippie Redd and Ski Mask the Slump God was released on December 17, 2021, along with a appearance from the Island Boys.`,
