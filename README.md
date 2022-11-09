@@ -77,7 +77,7 @@ Como citado acima, nosso sistema foi projetado de forma reutilizavel, assim econ
 
 <br>
 
-Aproximadamente 1380 linhas de Código
+Aproximadamente 1400 linhas de Código
 Tecnologias usadas:
 - JS
 - HTML
