@@ -27,8 +27,7 @@
 </div>
 <div align="center">
   <h2>Página Inicial</h2>
-  <img src="https://user-images.githubusercontent.com/77082955/200057356-70c46080-ea17-4228-a5a6-7a4da50db1ca.png" width="700" />
-  
+  <img src="https://user-images.githubusercontent.com/77082955/200728393-def041d7-6c37-4cad-95fc-ed0a54ceb82b.png" width="700" />
   <p>
     A Página Inicial é a mais interativa de todo sistema, pois nela é possivel escutar e navegar entre músicas, tudo isso através de um player na parte inferior da tela.
   </p>
