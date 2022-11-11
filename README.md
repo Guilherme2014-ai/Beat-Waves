@@ -83,4 +83,9 @@ Tecnologias usadas:
 - HTML
 - CSS
 
+Participantes:
+Guilherme H.
+Gabriel F.
+Anna J.
+
 Equipe Beat Waves.
